@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.env.local
+__pycache__/
+*.pyc
+database.json
+venv/
+.snapshots/
+frontend_pid.txt
+package-lock.json
